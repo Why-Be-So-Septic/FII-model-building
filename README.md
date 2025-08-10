@@ -61,5 +61,6 @@ Files:
 
 ---
 
-### Raw data
-Folder with initial raw data used for preprocessing and analysis.
+raw data
+raw_data_description.docx
+
